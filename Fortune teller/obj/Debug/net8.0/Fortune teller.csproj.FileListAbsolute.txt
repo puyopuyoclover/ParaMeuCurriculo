@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\bin\Debug\net8.0\Fortune teller.exe
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\bin\Debug\net8.0\Fortune teller.deps.json
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\bin\Debug\net8.0\Fortune teller.runtimeconfig.json
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\bin\Debug\net8.0\Fortune teller.dll
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\bin\Debug\net8.0\Fortune teller.pdb
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.sourcelink.json
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.dll
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\refint\Fortune teller.dll
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.pdb
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\Fortune teller.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\adri\ParaMeuCurriculo\Fortune teller\obj\Debug\net8.0\ref\Fortune teller.dll
