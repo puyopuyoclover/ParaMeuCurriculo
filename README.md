@@ -22,9 +22,9 @@ Este é um programa simples de console que simula um "mago da sorte", oferecendo
 
 Aqui estão algumas ideias que podem ser implementadas no futuro:
 
-- **Mais previsões**: Adicionar mais variações de sorte com diferentes números ou expandir o intervalo de números aleatórios.
+- **Mais previsões**: Adicionar mais variações de sorte.
 - **Melhor interação com o usuário**: Expandir o programa para aceitar outras respostas além de "sim" ou "não".
-- **Sistema de pontos**: Implementar um sistema onde o usuário possa acumular "moedas" ao receber certas sortes e gastá-las em funcionalidades extras.
+- **Mais funcionalidades**: Implementar easter eggs ou outras funções.
 - **Guardar o histórico**: Criar uma funcionalidade que registra as sortes anteriores do usuário para futuras consultas.
 
 ## Conclusão
